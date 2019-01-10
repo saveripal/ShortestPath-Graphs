@@ -18,19 +18,13 @@ destination vertex coordinates (third and fourth numbers) and weight of the edge
 necting the source vertex to the destination (assume direction of edge from source to
 destination)
 
-For example:\s\s
-4\s\s
-
-4
-
-1 2 3 4 10
-
-5 6 1 2 9
-
-3 4 5 6 8
-
-1 2 7 8 2
-
+For example:  
+4  
+4  
+1 2 3 4 10  
+5 6 1 2 9  
+3 4 5 6 8  
+1 2 7 8 2  
 Numbers in the same line are separated by a single space.
 
 
