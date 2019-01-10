@@ -18,9 +18,8 @@ destination vertex coordinates (third and fourth numbers) and weight of the edge
 necting the source vertex to the destination (assume direction of edge from source to
 destination)
 
-For example:
-
-4
+For example:\s\s
+4\s\s
 
 4
 
